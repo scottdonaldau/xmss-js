@@ -1,0 +1,9 @@
+{
+  "name": "xmss-js",
+  "version": "0.0.1",
+  "main": ["src/xmss.js"],
+  "ignore": [
+    "samples",
+    "tests"
+  ]
+}
